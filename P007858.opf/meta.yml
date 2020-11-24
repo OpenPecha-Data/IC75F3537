@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG24309
   title: རཱ་བྷིན་ཌ་ར་ན་ཐ་ཊེ་གོར།
-  volume: ''
+  volume:
+    b9c01b6e02b94fe492877e9e96a055d3:
+      image_group_id: I1KG24353
+      title: Volume 1 of rA b+hin Da ra na tha Te gor/
+      volume_number: 1
+      total_pages: 32
   author: ''
+ebook_metadata:
+  title: རཱ་བྷིན་ཌ་ར་ན་ཐ་ཊེ་གོར།
+  author: ''
+  sku: P007858
+  cover: cover.jpg
+  layers:
+  - pagination
